@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="488" viewBox="0 0 125 61" role="img" aria-labelledby="title desc">
+  <title id="title">VXK logo</title>
+  <desc id="desc">Vector recreation of the supplied VXK mark in navy, silver, white and red.</desc>
+  <rect width="125" height="61" fill="#063a50"/>
+  <g stroke-linejoin="miter" stroke-miterlimit="5">
+    <!-- Silver outside edges of the interlocking letterforms. -->
+    <path d="M4 27 22 12 46 12 61 37 73 16 85 13 97 13 80 36 91 56 78 56 73 47 67 56 56 56 39 28Z" fill="#f1f1e9" stroke="#8c999d" stroke-width="3"/>
+    <path d="M13 24 25 15 43 15 60 44 77 17 89 16 70 43 64 53 58 53 41 25Z" fill="#063a50" stroke="#bec8c8" stroke-width="1"/>
+    <!-- Upper connecting stroke. -->
+    <path d="M49 13 65 13 72 20 67 28 63 20 54 20Z" fill="#f2f2eb" stroke="#8c999d" stroke-width="2"/>
+    <path d="M54 15 64 15 69 20 67 23 64 18 56 18Z" fill="#8faab4"/>
+    <!-- Red right-hand stroke and silver rim. -->
+    <path d="M88 14 115 13 101 35 113 56 91 56 80 36 94 17Z" fill="#f4f3ed" stroke="#8c999d" stroke-width="3"/>
+    <path d="M99 17 109 16 96 35 107 52 94 52 85 36Z" fill="#9e1934"/>
+    <path d="M94 18 98 17 85 36 94 53 91 53 81 36Z" fill="#063a50"/>
+    <!-- Foreground diagonal maintains the interlocking silhouette. -->
+    <path d="M77 17 88 16 64 53 58 53 42 25 15 25 25 17 42 17 60 47Z" fill="#063a50" stroke="#eef0e9" stroke-width="1.4"/>
+  </g>
+</svg>
